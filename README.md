@@ -12,7 +12,7 @@ This Python script uses Selenium, a web automation library, to demonstrate a sim
 ### Usage
 
 1. **Clone Repository:** Clone this repository to your local machine.
-2. **Install Dependencies:** Install the required dependencies using `pip install -r requirements.txt` (assuming you have a requirements file).
+2. **Install Dependencies:** Install the required dependencies using `pip install -r requirements.txt`.
 3. **Setup WebDriver:** Ensure the WebDriver for Microsoft Edge is correctly set up.
 4. **Run the Script:** Execute the Python script `instagram_automation.py`.
 5. **Credentials:** Replace `<Your Username>` and `<Your Password>` with your Instagram credentials in the script before running it.
